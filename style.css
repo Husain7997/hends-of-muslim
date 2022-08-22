@@ -1,0 +1,111 @@
+body {
+    margin: 0px;
+    margin-top: 0px;
+}
+
+.bg-header {
+    background-image: url(images/header-bg.jfif);
+
+    background-repeat: no-repeat;
+    margin-top: 0;
+    height: 440px;
+
+}
+
+span {
+    background-color: darkkhaki;
+}
+
+.header-item {
+    padding: 50px;
+}
+
+.header-text {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 79px;
+    text-align: center;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.header-paregraph {
+    text-align: center;
+    color: #FFFFFF;
+    padding: 25px;
+    font-size: 20px;
+
+}
+
+hr {
+    margin: 40px;
+}
+
+.btn {
+    justify-content: center;
+    align-items: center;
+    padding: 16px 12px;
+    background: #FF5959;
+    border-radius: 5px;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin: 44%;
+}
+
+section {
+    margin-top: 50px;
+}
+
+.donate {
+    line-height: 30%;
+}
+
+.Donate-text {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 79px;
+    text-align: center;
+    color: #560303;
+    text-align: center;
+}
+
+.Donate-paregraph {
+    text-align: center;
+    color: #1c0097;
+
+    font-size: 23px;
+}
+
+.donate-amount-item {
+    text-decoration: none;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    color: #2e0808;
+    text-align: center;
+    margin: 40px;
+}
+
+.donate-amount {
+    display: flex;
+    justify-content: center;
+}
+
+#defolt-item {
+    border: 2px solid brown;
+    padding: 10px;
+    background-color: rgb(229, 201, 149);
+}
+
+.donate-amount-item:hover {
+    background-color: antiquewhite;
+    color: #560303;
+    padding: 10px 20px;
+
+}
